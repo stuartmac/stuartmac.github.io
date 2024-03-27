@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Stuart A. MacGowan
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Trinity College Dublin, Dublin, Ireland
+      year: 2014
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +19,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: BSc (Honors) First Class
+      institution: University of the West of Scotland, Paisley, Scotland, UK
+      year: 2010
       description:
         - Description 1.
         - Description 2.
@@ -31,9 +29,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Senior Bioinformatics Scientist
+      institution: School of Life Sciences, University of Dundee
+      year: 2018-now
       description:
         - Description 1.
         - Description 2.
@@ -41,57 +39,46 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Life Sciences Research Data Analyst
+      institution: School of Life Sciences, University of Dundee
+      year: 2014-2018
       description:
         - Description 1.
         - Description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Teaching Lab Demonstrator
+      institution: School of Chemistry, Trinity College Dublin.
+      year: 2010-2014
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Lab Technician 
+      institution: Ciba Specialty Chemicals, Paisley, Scotland, UK
+      year: 2004-2005
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Pharmacy Technician
+      institution: Southern General Hospital, Glasgow, Scotland, UK
+      year: 2003-2004
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: <a href="https://github.com/stuartmac/speaks-bioseqs">Bio Seeqs Converter</a>
+      year: 2024-now
+      description: A simple and fast browser-based tool for converting between different sequence formats.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Genetic Variant Interpretation.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Comparative Population and Evolutionary Genomics.
+        - Modelling Genetic Variantion in Protein Structures.
+    - title: Computational Protein Structure Analysis.
       items:
-        - Description 1.
-        - Description 2.
+        - Ligand binding-site analysis.
+        - Protein-protein interfaces.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Conciousness, Cosmolgy, Music, Well-being, Parenting.
