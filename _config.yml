@@ -105,7 +105,9 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Best way to reach me is DM on LinkedIn or email.
+    The best way to contact me is by <a href='https://www.linkedin.com/in/stuart-macgowan'>DM on LinkedIn</a>. 
+    You can also <a href='https://twitter.com/stuartmac44'>follow me on X</a> or if you prefer you can
+    <a href='mailto:smacgowan@dundee.ac.uk'>send me an email</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -334,7 +336,7 @@ max_author_limit: 3 # leave blank to always show all authors
 more_authors_animation_delay: 10 # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.
-enable_publication_thumbnails: true
+enable_publication_thumbnails: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes

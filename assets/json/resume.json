@@ -26,7 +26,8 @@
       "name": "School of Life Sciences, University of Dundee",
       "position": "Senior Bioinformatics Scientist",
       "url": "https://www.dundee.ac.uk/people/stuart-macgowan",
-      "startDate": "2014-07",
+      "startDate": "2014",
+      "endDate": "now",
       "summary": "Computational biology research, focussing on genetic variant in proteins and their role in disease.",
       "highlights": ["Dundee Bioinformatics Resource"]
     }
@@ -38,15 +39,15 @@
       "url": "https://www.tcd.ie/",
       "area": "Computational Chemistry",
       "studyType": "PhD",
-      "startDate": "2010-11-01",
-      "endDate": "2014-01-01"
+      "startDate": "2010",
+      "endDate": "2014"
     }
   ],
   "publications": [
     {
       "name": "A unified approach to evolutionary conservation and population constraint in protein domains highlights structural features and pathogenic sites",
       "publisher": "Communications Biology",
-      "releaseDate": "2024-04",
+      "releaseDate": "2024",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "Describes the Missense Enrichment Score (MES) and its application to the analysis of genetic variation in proteins."
     }
@@ -99,7 +100,8 @@
       "name": "The Dundee Resource for Sequence Analysis and Structure Prediction",
       "summary": "Bioinformatics web services for the analysis of protein sequences and structures.",
       "highlights": ["Jalview", "JPred", "NoD"],
-      "startDate": "2018-01-01",
+      "startDate": "2018",
+      "endDate": "now",
       "url": "https://www.compbio.dundee.ac.uk/drsasp.html"
     }
   ]
