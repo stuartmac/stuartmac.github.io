@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Computational Biologist</a>. University of Dundee. smacgowan@dundee.ac.uk
 
 profile:
   align: right
@@ -11,9 +11,7 @@ profile:
   more_info: >
     <p>School of Life Sciences</p>
     <p>University of Dundee</p>
-    <p>Nethergate</p>
-    <p>Dundee, DD1 4HN</p>
-    <p>Scotland, UK</p>
+    <p>Dundee, Scotland</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
