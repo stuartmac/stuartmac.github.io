@@ -105,7 +105,9 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Best way to reach me is DM on LinkedIn or email.
+    <a href='https://www.linkedin.com/in/stuart-macgowan'>Connect on LinkedIn</a>,
+    <a href='https://twitter.com/stuartmac44'>follow me on X</a> or
+    <a href='mailto:smacgowan@dundee.ac.uk'>email me</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
