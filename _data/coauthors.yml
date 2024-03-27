@@ -1,34 +1,23 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"barton":
+  - firstname: ["Geoffrey", "G.", "G. J.", "Geoffrey John"]
+    url: https://www.compbio.dundee.ac.uk/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"procter":
+  - firstname: ["James", "J."]
+    url: https://www.dundee.ac.uk/people/james-procter
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"madeira":
+  - firstname: ["Fábio", "F."]
+    url: https://www.ebi.ac.uk/people/person/fabio-madeira/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"britto-borges":
+  - firstname: ["Thiago", "T"]
+    url: https://github.com/tbrittoborges/tbrittoborges
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"cole":
+  - firstname: ["Chris", "C."]
+    url: https://www.dundee.ac.uk/people/christian-cole
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"senge":
+  - firstname: ["Mathias", "M.", "M. O."]
+    url: https://www.sengegroup.eu/people/mathias.html
