@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://stuartmac.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -105,9 +105,9 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-    The best way to contact me is by <a href='https://www.linkedin.com/in/stuart-macgowan'>DM on LinkedIn</a>. 
-    You can also <a href='https://twitter.com/stuartmac44'>follow me on X</a> or if you prefer you can
-    <a href='mailto:smacgowan@dundee.ac.uk'>send me an email</a>.
+  The best way to contact me is by <a href='https://www.linkedin.com/in/stuart-macgowan'>DM on LinkedIn</a>. 
+  You can also <a href='https://twitter.com/stuartmac44'>follow me on X</a> or if you prefer you can
+  <a href='mailto:smacgowan@dundee.ac.uk'>send me an email</a>.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
