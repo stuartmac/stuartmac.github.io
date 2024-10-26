@@ -18,18 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## Biography
+## About Me
 
-Dr. Stuart MacGowan is a Senior Bioinformatics Scientist in Prof. Geoff Barton's group at the University of Dundee. Alongside his research into understanding the intricacies of protein sequences, structures, and human genetic variation, he also maintains and manages the Dundee Resource for Sequence Analysis and Structure Prediction (DRSASP).
+I'm a Bioinformatics Scientist at the [University of Dundee](https://www.dundee.ac.uk/). My work revolves around exploring protein sequences, structures, and human genetic variation, with the goal of developing new technologies to improve human health. I also manage the [Dundee Bioinformatics Resource](https://www.compbio.dundee.ac.uk/drsasp.html), ensuring it remains accessible and up-to-date for scientists worldwide.
 
-Dr. MacGowan has dedicated his career to applying computational and statistical techniques to address key questions in biology and chemistry. After completing his PhD in 2014 under the guidance of Prof. Mathias Senge at Trinity College Dublin, he joined the Data Analysis Group (DAG) within Geoff Barton's group at the University of Dundee. After a few years working on collaborative projects with the DAG, including multiple projects with Prof. Irwin McLean, he shifted his attention to computational work on genetic variation in proteins.
+## My Research
 
-In 2018, Dr. MacGowan was promoted to Senior Bioinformatics Scientist and appointed as the Manager of the Dundee Resource for Sequence Analysis and Structure Prediction. In this role, he oversees the development, maintenance, and enhancement of DRSASP, ensuring that it remains a valuable resource for the scientific community.
+My research focuses on understanding the relationship between genetic variation and protein function. At the School of Life Sciences, I've collaborated with scientists and clinicians to uncover genetic variants linked to rare skin disorders, atopic dermatitis, and COVID-19. I also investigate how [population-level variation in genes corresponds with evolutionary changes in protein structures](http://dx.doi.org/10.1038/s42003-024-06117-5).
 
-## Research
+Recent projects include studying ligand binding sites, protein-protein interactions, and [the impact of ACE2 gene variants on COVID-19](http://dx.doi.org/10.1371/journal.pcbi.1009922).
 
-At Dundee, Dr. MacGowan's research has involved collaborations with multidisciplinary teams of scientists and clinicians to identify genetic variants and candidate genes implicated in rare genetic skin disorders, atopic dermatitis and COVID-19, alongside his own theoretical work on how human population variation relates to evolutionary changes in proteins.
-
-A cornerstone of his research is understanding the influence of genetic variation on protein structure and function, with a special focus on how variations in ligand and protein binding sites impact the overall function of the protein. He has approached this problem from the "big data" perspective, analysing sequence and structure data from hundreds of thousands of proteins to identify universal trends and patterns. He has also applied these approaches to more specific situations, such as investigating the role of common and rare mutations in the human ACE2 gene and their effect on COVID-19.
-
-In recent years, Dr. MacGowan has maintained DRSASP, which aims to provide a comprehensive toolkit for analysing protein sequences and structures, focusing on aspects such as protein structure, disorder, crystallization, and protein-protein interactions. In addition to maintaining and enhancing this resource, Dr. MacGowan is currently working to expand its capabilities to encompass genetic variation, improve the resources reliability, and ensure the reproducibility of analyses for the future.
+Through the Dundee Resource, I aim to provide researchers with a comprehensive toolkit for protein sequence and structural analysis. I'm actively working to enhance our capabilities by incorporating the latest tools and algorithms in protein science, human genetics, and beyond.
